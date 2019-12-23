@@ -1,0 +1,3 @@
+#STANDAR = from  asal directory import .....
+from .mathematic import *
+from .physic import *
